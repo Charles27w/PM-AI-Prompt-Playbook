@@ -3,7 +3,7 @@
 ## Purpose
 Automatically categorize and analyze customer feedback at scale
 
-## Prompt
+## Prompt Template
 Analyze this customer feedback and provide:
 
 1. **Primary Theme:** What's the main issue or request?
@@ -34,7 +34,7 @@ Examples showcase how AI feedback analysis will:
 
 ---
 
-## Examples
+## Output Examples
 10 examples representing a combination of use cases based on template values
 
 ### Example 1: Enterprise Customer - Critical Integration Issue
