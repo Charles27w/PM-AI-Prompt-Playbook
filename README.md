@@ -2,7 +2,7 @@
 
 > A professional collection of battle-tested prompt templates for AI Product Management
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/AI-PM-Prompt-Library.svg?style=social&label=Star)](https://github.com/YourUsername/AI-PM-Prompt-Library)
+[![GitHub stars](https://img.shields.io/github/stars/charles27w/AI-PM-Prompt-Library.svg?style=social&label=Star)](https://github.com/YourUsername/AI-PM-Prompt-Library)
 
 ## 📚 What's Inside
 
