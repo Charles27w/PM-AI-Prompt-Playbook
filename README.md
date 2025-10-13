@@ -79,7 +79,7 @@ Found a better way to prompt? Have suggestions? Feel free to:
 Built by Charles27w
 - 💼 https://www.LinkedIn.com/in/Charles-Weldon
 - 📧 charles27w@gmail.com
-- 🌐 TBA
+- 🌐 https://www.notion.so/MY-PORTFOLIO-PAGE-2838309a2e9b8011910aff381c83bd7d?source=copy_link
 
 ## 📄 License
 
