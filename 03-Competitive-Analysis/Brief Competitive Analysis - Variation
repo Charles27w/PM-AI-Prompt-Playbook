@@ -1,0 +1,29 @@
+# 📊 Prompt Template - Brief Competitive Analysis
+
+## Purpose
+Generate quick competitive analysis for AI products and features, identifying strengths, weaknesses, opportunities, and strategic positioning.
+
+---
+
+## 🎯 Core Competitive Analysis Prompt
+
+### Prompt Template
+
+Provide a brief competitive analysis of [COMPETITOR]:
+
+- Competitor: [COMPETITOR NAME]
+- Market Segment: [TARGET MARKET]
+- Product/Feature: [SPECIFIC PRODUCT OR FEATURE]
+- Our Product Context: [YOUR PRODUCT DESCRIPTION]
+- Core strengths (3 bullets)
+- Key weaknesses (3 bullets)
+- Our differentiation opportunity (1 paragraph)
+- Threat level: Low/Medium/High with 1 sentence why
+
+---
+
+## 📋 Example Input
+
+---
+
+## 💡 Example Output
