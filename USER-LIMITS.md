@@ -32,7 +32,7 @@
 
 ---
 
-### 🔧 GEN AI Models for Writing
+### 🔧 Cheat Sheet for GEN AI Models
 
 | AI Model | Quality Rating | Speed | Notes |
 |----------|---------------|-------|-------|
