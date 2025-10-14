@@ -68,8 +68,6 @@
 - Ideation & Brainstorming: Generating multiple approaches, exploring trade-offs, considering edge cases
 - Meeting Preparation: Agenda creation, discussion guides, pre-read materials, retrospective formats
 
----
-
 **What Requires Manual Verification:** (when applicable)
 - Product Assumptions: Test core assumptions about user behavior and value proposition with real users
 - Always validate statistics, market data, and research citations
