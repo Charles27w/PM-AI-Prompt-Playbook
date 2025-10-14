@@ -9,10 +9,10 @@ Generate comprehensive competitive analysis for AI products and features, identi
 
 ### Prompt Template
 You are an expert AI Product strategist conducting a competitive analysis. Analyze the following competitor and provide a comprehensive assessment:
-Competitor: [COMPETITOR NAME]
-Product/Feature: [SPECIFIC PRODUCT OR FEATURE]
-Market Segment: [TARGET MARKET]
-Our Product Context: [YOUR PRODUCT DESCRIPTION]
+- Competitor: [COMPETITOR NAME]
+- Product/Feature: [SPECIFIC PRODUCT OR FEATURE]
+- Market Segment: [TARGET MARKET]
+- Our Product Context: [YOUR PRODUCT DESCRIPTION]
 
 ---
 
