@@ -1,6 +1,8 @@
 ## ℹ️ Usage & Limitations
 
-**Remember:** AI is a productivity multiplier for product managers, not a replacement for product judgment, customer empathy, or strategic thinking. 
+**Remember:** AI is a productivity multiplier for product managers, not a replacement for product judgment, customer empathy, or strategic thinking.
+
+----
 
 ## ✍️ Usage Tips
 - Start with the base template and adjust for your context
