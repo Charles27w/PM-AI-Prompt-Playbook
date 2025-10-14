@@ -1,8 +1,14 @@
-## ℹ️ Usage Tips
+## ℹ️ Usage & Limitations
 
 **Remember:** AI is a productivity multiplier for product managers, not a replacement for product judgment, customer empathy, or strategic thinking. 
 
-**General Prompting Use:**
+## ✍️ Usage Tips
+- Start with the base template and adjust for your context
+- Test multiple variations to find optimal phrasing
+- Document what works best for your use cases
+- Combine prompts for complex workflows
+
+** ⌨️ General Prompting Use:**
 - Start a new chat for each feature/product
 - Verify all factual claims (AI can hallucinate data)
 - Analysis - Competitive/Comparison/Research/Market
@@ -12,7 +18,7 @@
 - Include regulatory/compliance factors if relevant
 - Documentation Speed: Use AI to accelerate first-draft creation, then refine with input
 
-**Pro Tips:**
+** 🚀 Pro Tips:**
 1. Follow company or client AI Policies
 2. Utitlize built-in GEN AI chats avaiable within your tech stack (ex: Jira's Rovo)
 3. Include "Avoid use of em dases (-)" in your prompt
