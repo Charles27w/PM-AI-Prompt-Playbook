@@ -10,7 +10,7 @@ You are an expert AI Product Manager. Generate a comprehensive PRD for the follo
 - User Problem: [PROBLEM DESCRIPTION] 
 - Target User: [USER PERSONA]
 
-Include these sections:
+Framework:
 1. Executive Summary
 2. Problem Statement
 3. Goals and Success Metrics
@@ -21,4 +21,5 @@ Include these sections:
 8. Risks and Mitigations
 9. Launch Plan
 
-Format: Professional, detailed, and actionable.
+Tone: Professional
+Format: Detailed and actionable.
