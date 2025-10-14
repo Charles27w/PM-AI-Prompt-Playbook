@@ -39,22 +39,19 @@ This repository contains systematized prompt templates for common AI Product Man
 - Edge case identification
 
 ## 🚀 Quick Start
-
 1. **Browse** the folders above to find relevant prompts
 2. **Copy** the prompt template
-3. **Customize** bracketed sections with your details
+3. **Customize** bracketed [] sections with your details
 4. **Paste** into your preferred AI tool (ChatGPT, Claude, etc.)
 5. **Iterate** based on results
 
 ## 💡 Usage Tips
-
 - Start with the base template and adjust for your context
 - Test multiple variations to find optimal phrasing
 - Document what works best for your use cases
 - Combine prompts for complex workflows
 
 ## 🛠️ Tools Tested With
-
 - ✅ ChatGPT (GPT-4, GPT-3.5)
 - ✅ Claude (3.5 Sonnet, 3 Opus)
 - ✅ Gemini Pro
