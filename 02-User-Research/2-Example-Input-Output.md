@@ -1,15 +1,11 @@
 # User Feedback Analysis Prompt
 
-## Purpose
-Automatically categorize and analyze customer feedback at scale
+
+## 📝 Example Prompt Input
 
 ---
 
-## Output Examples
-
----
-
-## Output Examples
+## 💡10 Output Examples
 10 examples representing a combination of use cases based on template values
 
 ### Example 1: Enterprise Customer - Critical Integration Issue
@@ -18,7 +14,6 @@ Automatically categorize and analyze customer feedback at scale
 "Our entire sales team (45 people) can't access customer data in Salesforce because the sync has been broken for 3 days. We're losing deals because reps don't have updated contact info. This is costing us real money. We pay $15K/month for this product and expect better reliability. If this isn't fixed by EOD, we need to discuss our contract."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Salesforce integration failure causing complete data sync breakdown for large sales team
 2. **Urgency:** Critical
 3. **Category:** Bug (Integration)
@@ -46,7 +41,6 @@ Automatically categorize and analyze customer feedback at scale
 "Hey team! Love the product so far. Our IT security team is asking about SSO support - we use Okta for everything else. Not a blocker right now since we're still in pilot mode with 5 users, but we'll need this before rolling out to the full product team (30 people) next quarter. Any timeline on when SSO might be available?"
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Request for SSO/SAML authentication support (specifically Okta) needed for enterprise rollout
 2. **Urgency:** **Medium**
 3. **Category:** **Feature Request** (Authentication/Security)
@@ -74,7 +68,6 @@ Automatically categorize and analyze customer feedback at scale
 "I've been using the dashboard for 2 weeks and I'm still confused about what the 'Insights' section is showing me. The numbers don't match what I see when I click through to the actual feedback. Also, why are there sometimes 3 different sentiment scores? Which one should I trust? The UI looks nice but I'm spending more time trying to understand it than actually using it."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Dashboard comprehension issues - unclear metrics display and conflicting sentiment data causing user confusion
 2. **Urgency:** **Medium**
 3. **Category:** **UX Issue** (Dashboard/Analytics)
@@ -103,7 +96,6 @@ Automatically categorize and analyze customer feedback at scale
 "The AI categorization is seriously impressive! It's saving me probably 6-7 hours every week. I especially love how it catches patterns I would have missed manually. One thing that would make it even better - could you add a way to create custom categories specific to our product? We have some unique feature areas that don't fit the default categories perfectly. Otherwise, this is exactly what we needed!"
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Strong satisfaction with AI categorization, with enhancement request for custom category taxonomy
 2. **Urgency:** **Low**
 3. **Category:** **Feature Request** (Enhancement)
@@ -131,7 +123,6 @@ Automatically categorize and analyze customer feedback at scale
 "Having several problems: 1) Zendesk integration stopped working yesterday, showing 'Authentication Failed' error. I tried reconnecting but same issue. 2) The search function doesn't find tickets I know exist - searched for 'billing issue' and got 0 results but I can see 15 tickets with that phrase when I browse manually. 3) Minor thing but the export to CSV cuts off long feedback text after 100 characters. Need full text for reports."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Multiple technical issues - broken Zendesk auth, search functionality failing, CSV export truncation
 2. **Urgency:** **High**
 3. **Category:** **Bug** (Multiple: Integration + Search + Export)
@@ -160,7 +151,6 @@ Automatically categorize and analyze customer feedback at scale
 "Quick question - we're currently on the Starter plan ($99/mo) but we're about to hit the 1,000 feedback items per month limit. What happens when we exceed that? Do items just stop syncing? Also, our team is growing and we'll need to add 3 more PM seats next month. Can we get volume pricing since we're scaling up quickly?"
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Account limit approaching (usage ceiling) + expansion inquiry (seat addition) + pricing negotiation request
 2. **Urgency:** **Medium**
 3. **Category:** **Other** (Commercial/Billing)
@@ -189,7 +179,6 @@ Automatically categorize and analyze customer feedback at scale
 "We're evaluating your product vs. Productboard and Canny. I like your AI features better, but both competitors let you create public roadmaps that customers can vote on. That's really important for our workflow since we want customers to see we're listening. Do you have anything like that planned? If not, that might be a dealbreaker for us unfortunately."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Competitive evaluation - requesting public roadmap + voting feature that exists in Productboard and Canny
 2. **Urgency:** **High**
 3. **Category:** **Feature Request** (Competitive Gap)
@@ -220,7 +209,6 @@ Automatically categorize and analyze customer feedback at scale
 "The dashboard is really slow lately. Takes 15-20 seconds to load, sometimes times out completely. This is with only about 500 feedback items so I can't imagine how slow it'll be when we have thousands. Using Chrome on a MacBook Pro with good internet, so not a local issue. Makes it hard to use during meetings when I need to pull up data quickly."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Dashboard performance degradation - slow load times (15-20s) and timeouts affecting usability
 2. **Urgency:** **High**
 3. **Category:** **Bug** (Performance/Infrastructure)
@@ -251,7 +239,6 @@ Automatically categorize and analyze customer feedback at scale
 "Just signed up and went through onboarding. I connected my Zendesk account but now what? The dashboard is empty and says 'No feedback found.' How long does it take to sync? There's no progress bar or anything so I don't know if it's working or broken. Been waiting 30 minutes. Also, the onboarding tutorial skipped over how to actually set up categories."
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Poor onboarding experience - unclear sync status, no progress indicators, incomplete tutorial causing new user confusion
 2. **Urgency:** **Medium**
 3. **Category:** **UX Issue** (Onboarding)
@@ -283,7 +270,6 @@ Automatically categorize and analyze customer feedback at scale
 "Been using this daily for 3 months now, absolutely love it. Feature idea: could you add the ability to tag specific feedback items to Jira tickets? Right now I manually copy-paste feedback into Jira descriptions when creating tickets. If I could just click 'Link to Jira' and search for my ticket, that would save tons of time and keep everything connected. Also, being able to see how much feedback is linked to each ticket would help prioritize the backlog. Just a thought!"
 
 **AI Analysis Output:**
-
 1. **Primary Theme:** Feature enhancement request for Jira integration - link feedback to tickets for better traceability and prioritization
 2. **Urgency:** **Low**
 3. **Category:** **Feature Request** (Integration)
