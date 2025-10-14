@@ -1,4 +1,4 @@
-# User Feedback Analysis Examples
+# Examples: User Feedback Analysis
 
 
 ## 📝 Prompt Example
