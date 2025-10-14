@@ -4,13 +4,13 @@
 
 ----
 
-## ✍️ Usage Tips
+### ✍️ Usage Tips
 - Start with the base template and adjust for your context
 - Test multiple variations to find optimal phrasing
 - Document what works best for your use cases
 - Combine prompts for complex workflows
 
-** ⌨️ General Prompting Use:**
+### ⌨️ General Prompting Use
 - Start a new chat for each feature/product
 - Verify all factual claims (AI can hallucinate data)
 - Analysis - Competitive/Comparison/Research/Market
@@ -20,7 +20,7 @@
 - Include regulatory/compliance factors if relevant
 - Documentation Speed: Use AI to accelerate first-draft creation, then refine with input
 
-** 🚀 Pro Tips:**
+### 🚀 Pro Tips
 1. Follow company or client AI Policies
 2. Utitlize built-in GEN AI chats avaiable within your tech stack (ex: Jira's Rovo)
 3. Include "Avoid use of em dases (-)" in your prompt
@@ -68,6 +68,8 @@
 - Ideation & Brainstorming: Generating multiple approaches, exploring trade-offs, considering edge cases
 - Meeting Preparation: Agenda creation, discussion guides, pre-read materials, retrospective formats
 
+---
+
 **What Requires Manual Verification:** (when applicable)
 - Product Assumptions: Test core assumptions about user behavior and value proposition with real users
 - Always validate statistics, market data, and research citations
@@ -85,7 +87,7 @@
 - Accessibility Claims - Test WCAG compliance and screen reader compatibility with accessibility specialists
 - Performance Requirements - Benchmark SLA targets against actual system capabilities and monitoring data
 
-
+---
 
 **Always:**
 - ✅ Test hypothesis, theories, recommendations when possible
