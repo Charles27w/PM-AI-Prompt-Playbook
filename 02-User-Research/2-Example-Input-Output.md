@@ -6,8 +6,8 @@
 
 ---
 
-## 💡10 Output Examples
-10 examples representing a combination of use cases based on template values
+## 💡 Output Examples
+10 examples representing different use cases
 
 ### Example 1: Enterprise Customer - Critical Integration Issue
 
