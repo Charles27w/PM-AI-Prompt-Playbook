@@ -1,1 +1,3 @@
-
+git rm path/to/yourfile.ext
+git commit -m "Delete yourfile.ext"
+git push
