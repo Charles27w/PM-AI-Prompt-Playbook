@@ -14,4 +14,4 @@
 - ✅ Tested and verified
 - ✅ Documented limitations
 
-Thank you for helping improve AI PM workflows! 🚀
+Thank you for helping improve AI PM workflows! 🤝
