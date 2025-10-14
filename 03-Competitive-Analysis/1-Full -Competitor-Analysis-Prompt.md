@@ -34,18 +34,6 @@ Our Product Context: [YOUR PRODUCT DESCRIPTION]
 **Pro Tip(s):**
 1. **Run this for 3-5 competitors** to build complete market picture
 2. **Accuracy:** Verify all factual claims (AI can hallucinate data)
----
-
-### 🔧 Test With
-
-| AI Model | Quality Rating | Speed | Notes |
-|----------|---------------|-------|-------|
-| **Claude 3.5 Sonnet** | ⭐⭐⭐⭐⭐ | Fast (30s) | Best for strategic analysis, nuanced insights |
-| **GPT-4** | ⭐⭐⭐⭐ | Medium (45s) | Good structure, sometimes verbose |
-| **GPT-4o** | ⭐⭐⭐⭐ | Fast (25s) | Faster but slightly less depth |
-| **Gemini Pro** | ⭐⭐⭐ | Fast (20s) | Good for data analysis, less strategic |
-
-**Recommended:** Claude 3.5 Sonnet for comprehensive competitive analysis
 
 ---
 
@@ -59,7 +47,7 @@ Our Product Context: [YOUR PRODUCT DESCRIPTION]
 
 ---
 
-### ⚠️ Limitations & Important Notes
+### ⚠️ Limitations
 
 **What This Prompt Does Well:**
 - Structured competitive analysis framework
@@ -73,14 +61,7 @@ Our Product Context: [YOUR PRODUCT DESCRIPTION]
 - Technical specifications (verify with product testing)
 - Customer satisfaction metrics (check recent reviews)
 
-**Always:**
-- ✅ Verify factual claims with primary sources
-- ✅ Test competitor products directly when possible
-- ✅ Supplement with real customer interviews
-- ✅ Cross-reference data with industry reports
-- ✅ Update analysis based on new information
-
----
+----
 
 ## 📋 Example Input
 Competitor: Notion AI
