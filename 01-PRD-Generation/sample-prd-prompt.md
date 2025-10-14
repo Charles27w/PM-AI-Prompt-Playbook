@@ -1,7 +1,7 @@
 # PRD Generation Prompt Template
 
 ### Purpose
-Generate a comprehensive Product Requirements Documents for new features
+Generate comprehensive Product Requirements Documents for new features
 
 ### Prompt Template
 
