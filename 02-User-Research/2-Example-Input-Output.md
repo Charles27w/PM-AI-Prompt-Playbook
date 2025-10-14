@@ -1,7 +1,8 @@
-# User Feedback Analysis Prompt
+# User Feedback Analysis Examples
 
 
-## 📝 Example Prompt Input
+## 📝 Prompt Example
+**Input:** 
 
 ---
 
