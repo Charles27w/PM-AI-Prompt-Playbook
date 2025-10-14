@@ -1,16 +1,16 @@
 # PRD Generation Prompt Template
 
-## Purpose
-Generate comprehensive Product Requirements Documents for new features
+### Purpose
+Generate a comprehensive Product Requirements Documents for new features
 
-## Prompt Template
+### Prompt Template
 
 You are an expert AI Product Manager. Generate a comprehensive PRD for the following feature:
-
-Feature: [FEATURE NAME] User Problem: [PROBLEM DESCRIPTION] Target User: [USER PERSONA]
+- Feature: [FEATURE NAME] 
+- User Problem: [PROBLEM DESCRIPTION] 
+- Target User: [USER PERSONA]
 
 Include these sections:
-
 1. Executive Summary
 2. Problem Statement
 3. Goals and Success Metrics
@@ -23,27 +23,16 @@ Include these sections:
 
 Format: Professional, detailed, and actionable.
 
-## Usage Tips
-- Replace bracketed sections with your specific details
-- Test with 2-3 variations to find best output
-- Adjust detail level based on feature complexity
-- Adjust formatting to suit
-
-## Performance
-- Tested with: Claude Sonnet.5
-- Average generation time: 2-3 minutes
-- Quality rating: ⭐⭐⭐⭐⭐
-
 ## Example Input
-Feature: AI-powered Customer Feedback Analysis
-User Problem: Product managers spend 10+ hours/week manually categorizing customer feedback
-Target User: B2B SaaS Product Managers
-Template: PRD Generation Prompt Template
+- Feature: AI-powered Customer Feedback Analysis
+- User Problem: Product managers spend 10+ hours/week manually categorizing customer feedback
+- Target User: B2B SaaS Product Managers
+- Template: PRD Generation Prompt Template [INSERT TEMPLATE]
 
 ## Example Output
 Product Requirements Document (PRD)
 
-Feature: AI-Powered Customer Feedback Analysis
+**Feature:** AI-Powered Customer Feedback Analysis
 **Document Owner:** Charles Weldon 
 **Last Updated:** 13Oct20215 
 **Status:** Draft  
